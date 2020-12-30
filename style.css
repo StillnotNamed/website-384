@@ -1,0 +1,39 @@
+h1 {
+    color: #000000;
+}
+
+.header{
+    background-color:#00FFFF;
+    display:flex;
+    justify-content:space-between;
+
+}
+h2{
+    color:#00EF20;
+}
+.grid{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+    
+}
+.item p{
+    color:#234069;
+    font-weight:bold;
+    font-style:italic;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.item img {
+    border:solid;
+    border-color:#429600;
+    border-radius:100px;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+    
+}
+body {
+    background-color: #808080;
+}
